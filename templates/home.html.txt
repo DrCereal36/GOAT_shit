@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>News & Poll App</title>
+    <title>Balls</title>
 </head>
 <body>
     <h1>Balls</h1>
@@ -9,3 +9,4 @@
 </body>
 
 </html>
+
