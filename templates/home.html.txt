@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>News & Poll App</title>
+</head>
+<body>
+    <h1>Welcome to the News & Poll App!</h1>
+    <p>This is your homepage.</p>
+</body>
+</html>
