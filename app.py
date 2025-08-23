@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "det är faktist helt svart"
+    return "POSTING RANDOM DAILY SHIT"
 
 @app.route('/google529aa2489f3093d9.html')
 def google_verification():
@@ -12,5 +12,6 @@ def google_verification():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 
