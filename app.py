@@ -4,8 +4,10 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "POSTING RANDOM DAILY SHIT"
-    return "[24/8/2025] Grow a Garden sucks"
+    return """
+    <h1>POSTING RANDOM DAILY SHIT</h1>
+    <p>[24/8/2025] Grow a Garden sucks</p>
+    """
 
 @app.route('/google529aa2489f3093d9.html')
 def google_verification():
@@ -13,6 +15,7 @@ def google_verification():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 
 
