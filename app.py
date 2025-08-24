@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return """
-    <h1>POSTING RANDOM DAILY SHIT</h1>
+    <h1>POSTING DAILY RANDOM SHIT</h1>
     <p>[24/8/2025] Grow a Garden sucks</p>
     """
 
@@ -15,6 +15,7 @@ def google_verification():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 
 
