@@ -11,6 +11,7 @@ def home():
     <p>[25/8/2025] LIAR - Anakin skywalker</p>
     <p>[26/8/2025] "Go on and get your refund, motherfucker, I ain't dead" </p>
     <p>[27/8/2025] "Cause he got hit like I got hit, but he ain't fuckin' breathin" </p>
+    <p>[27/8/2025] "A great liar is also a great magician" - Socrates </p>
     """
 
 @app.route('/google529aa2489f3093d9.html')
@@ -19,6 +20,7 @@ def google_verification():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 
 
